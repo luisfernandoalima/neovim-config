@@ -29,4 +29,4 @@ Busca arquivos, comandos, pastas etc.
 
 ### treesitter
 
-Destaca a estrutura do código com maior precisão
+Destaca a estrutura do código com maior precisão;
