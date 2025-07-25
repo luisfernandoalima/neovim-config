@@ -30,3 +30,13 @@ Busca arquivos, comandos, pastas etc.
 ### treesitter
 
 Destaca a estrutura do código com maior precisão;
+
+### LSP (Language Server Protocol)
+
+Permite que tenha intellisense, autocomplete, definição, indentificação de erro etc.
+
+#### Atalhos
+
+- Shift k => hover;
+- gd => definition;
+- <leader>ca => code actions.
