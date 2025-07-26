@@ -2,7 +2,7 @@
 
 ## Plugins
 
-### Catppuccin 
+### Catppuccin
 
 Configura o tema Catppuccin para o Neovim;
 
@@ -17,6 +17,7 @@ Explorador de arquivos em árvore;
 #### Atalhos
 
 - Ctrl n => Exibe o explorador de arquivos;
+- Ctrl m => Fecha o explorador de arquivos;
 
 ### telescope
 
@@ -25,7 +26,7 @@ Busca arquivos, comandos, pastas etc.
 #### Atalhos
 
 - Ctrl p => Habilita a função find_files;
-- <leader>fg => Habilita o live_grep;
+- leader fg => Habilita o live_grep;
 
 ### treesitter
 
@@ -39,4 +40,12 @@ Permite que tenha intellisense, autocomplete, definição, indentificação de e
 
 - Shift k => hover;
 - gd => definition;
-- <leader>ca => code actions.
+- leader ca => code actions.
+
+### None_ls
+
+Formatador de código;
+
+#### Atalhos
+
+- Ctrl Shift f => Ativa o formatador de código;
